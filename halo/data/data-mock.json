@@ -1,0 +1,62 @@
+[
+	{	
+		"key": 1,
+		"pacId": 1,
+		"aspectId": 1,
+		"sentimentId": 1,
+		"overallExperience": "Good",
+		"aspect": "Screen",
+		"reviewText": "Good",
+		"price": 2000,
+		"reviewScore": 100,
+		"deviceName": "Pixel 2"
+	},
+	{	
+		"key": 2,
+		"pacId": 1,
+		"aspectId": 2,
+		"aspect": "OS",
+		"sentimentId": 1,
+		"overallExperience": "Good",
+		"reviewText": "Good",
+		"price": 2000,
+		"reviewScore": 200,
+		"deviceName": "Pixel 2"
+	},
+	{	
+		"key": 3,
+		"pacId": 2,
+		"aspectId": 1,
+		"sentimentId": 3,
+		"overallExperience": "Bad",
+		"aspect": "Screen",
+		"reviewText": "Bad",
+		"price": 2000,
+		"reviewScore": 200,
+		"deviceName": "Pixel 2"
+	},
+	{	
+		"key": 4,
+		"pacId": 3,
+		"aspectId": 3,
+		"sentimentId": 2,
+		"overallExperience": "Neutral",
+		"aspect": "Display",
+		"reviewText": "Good and bad in some cases",
+		"price": 2000,
+		"reviewScore": 300,
+		"deviceName": "Pixel 2"
+	},
+	{	
+		"key": 5,
+		"pacId": 4,
+		"aspectId": 4,
+		"aspect": "Camera",
+		"sentimentId": 1,
+		"overallExperience": "Good",
+		"reviewText": "Awesome it is",
+		"price": 2000,
+		"reviewScore": 100,
+		"deviceName": "Pixel 2"
+	}
+]

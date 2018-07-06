@@ -1,0 +1,74 @@
+[
+	{
+		"pacId": "1",
+		"aspectId": "1",
+		"manufacturer": "Google",
+		"reviewText": "Display was great, but their price is terrible. Their OS is quite interesting. The overall value sucks if you ask me. DOn't but!!",
+		"reviewScore": 1240,
+		"deviceName": "iPhone X",
+		"aspect": "OS",
+		"overallExp": "negetive",
+		"key": "g1",
+		"price": 20000
+	},
+	{
+		"pacId": "10",
+		"aspectId": "1",
+		"manufacturer": "Google",
+		"reviewText": "Nice",
+		"reviewScore": 400,
+		"deviceName": "iPhone X",
+		"overallExp": "negetive",
+		"key": "g1",
+		"aspect": "OS",
+		"price": 20000
+	},
+	{
+		"pacId": "2",
+		"aspectId": "2",
+		"manufacturer": "Google",
+		"reviewText": "Not as good",
+		"reviewScore": 200,
+		"deviceName": "iPhone X",
+		"overallExp": "positive",
+		"key": "g2",
+		"aspect": "Screen",
+		"price": 35000
+	},
+	{
+		"pacId": "3",
+		"aspectId": "3",
+		"manufacturer": "Google",
+		"reviewText": "If you ask me. DOn't but!!",
+		"reviewScore": 1000,
+		"deviceName": "iPhone X",
+		"overallExp": "negetive",
+		"key": "g3",
+		"aspect": "Display",
+		"price": 12000
+	},
+	{
+		"pacId": "20",
+		"aspectId": "4",
+		"manufacturer": "Google",
+		"reviewText": "Much better",
+		"reviewScore": 840,
+		"deviceName": "iPhone X",
+		"overallExp": "positive",
+		"key": "n2",
+		"aspect": "Camera",
+		"price": 20000
+	},
+	{
+		"pacId": "4",
+		"aspectId": "3",
+		"manufacturer": "Google",
+		"reviewText": "Buy it!!",
+		"reviewScore": 450,
+		"deviceName": "iPhone X",
+		"overallExp": "negetive",
+		"aspect": "Display",
+		"key": "honour8",
+		"price": 45000
+	}
+]
