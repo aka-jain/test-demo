@@ -429,11 +429,3 @@ function changeData(val) {
     data=dataSource[val];
     viz.data(data).update();
 }
-
-
-
-
-
-
-
-
