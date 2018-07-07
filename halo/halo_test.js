@@ -61,7 +61,7 @@ function initialize() {
         .haloKey(function (d) {
             return d.pacId; })                    // The property that determines each PAC
         .nodeKey(function (d) {
-            return d.aspectId; })                    // The property that determines Candidate
+            return (d.aspectId + '-' + d.sentimentId); })                    // The property that determines Candidate
         .nodeGroupKey(function (d) {
             return d.sentimentId; })                        // The property that determines candidate Party affiliation
         .value(function (d) {

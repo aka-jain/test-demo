@@ -58,5 +58,19 @@
 		"price": 2000,
 		"reviewScore": 100,
 		"deviceName": "Pixel 2"
-	}
+	},
+    {   
+        "key": 3,
+        "pacId": 5,
+        "aspectId": 1,
+        "sentimentId": 3,
+        "overallExperience": "Bad",
+        "aspect": "Screen",
+        "reviewText": "All time worst",
+        "price": 2000,
+        "reviewScore": 200,
+        "deviceName": "Pixel 2"
+    }
 ]
+
+
